@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fivem script 
 - 🌱 I’m currently learning fivem discord bot and making own vpn 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me you can always send me a pm in discord Flipdebeer#1655
+- 📫 How to reach me you can always send me a pm on discord Flipdebeer#1655
 
 <!---
 Flipdebeer/Flipdebeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
